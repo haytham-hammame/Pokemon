@@ -1,0 +1,18 @@
+{
+    "player": "Jolyne",
+    "save": "3",
+    "pokedex": [
+        "0001"
+    ],
+    "encounters": {
+        "done": 0,
+        "won": 0,
+        "lost": 0
+    },
+    "active_team": {
+        "pokemon_1": {
+            "entry": "0001",
+            "experience_points": 999999
+        }
+    }
+}
