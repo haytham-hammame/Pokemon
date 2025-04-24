@@ -3,9 +3,6 @@ Group project done as a Pygame learning course with OOP paradigm and MVC code ar
 
 **Everything presented is open-source and done in an educational manner. All sprites, musics and sounds do not belong to us nor our organization and we do not declare any of our own property, instead crediting them to their rightful owners.**
 
-## How to play
-
-Download the game in a zip file [here](https://github.com/haytham-hammame/obsidian_fighters/archive/refs/heads/main.zip) and unzip it where you want you download. Keep the game.exe with the game folder for the game to run properly, and you're set !
 
 #### Start fight
 ![alt text](./docs/Readme%20images/biome%20select.png "biome selection")
