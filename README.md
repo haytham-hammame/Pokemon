@@ -5,7 +5,7 @@ Group project done as a Pygame learning course with OOP paradigm and MVC code ar
 
 ## How to play
 
-Download the game in a zip file [here](https://github.com/jolyne-mangeot/obsidian_fighters/archive/refs/heads/main.zip) and unzip it where you want you download. Keep the game.exe with the game folder for the game to run properly, and you're set !
+Download the game in a zip file [here](https://github.com/haytham-hammame/obsidian_fighters/archive/refs/heads/main.zip) and unzip it where you want you download. Keep the game.exe with the game folder for the game to run properly, and you're set !
 
 #### Start fight
 ![alt text](./docs/Readme%20images/biome%20select.png "biome selection")
@@ -50,11 +50,3 @@ Back to the title screen for this one. In the options you will find settings for
 Currently the game supports English and French.
 After setting your game up as you like it, you have to tap apply for your settings to, well, apply.
 
-
-# Credits
-
-[Jolyne Mangeot](github.com/jolyne-mangeot)
-
-[Yuliia Sherstiuk](github.com/yuliia-sherstiuk)
-
-[Eltigani Abdallah](github.com/eltigani-abdallah)
